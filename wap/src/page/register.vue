@@ -55,7 +55,7 @@
         </a> -->
       </div>
       <div class="register-form-item submit-model" @click="gook">
-        <!-- 立即注册 -->
+        <!-- 立即注 册 -->
         Đăng ký ngay
       </div>
       <div class="register-form-item " style="margin-top: .23rem;display:flex;justify-content:flex-end">
